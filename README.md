@@ -62,11 +62,3 @@ Vale bug, sugestão, feedback ou só bater um papo dev.
 
 **#useDev** é código, comunidade e crescimento.  
 Bora construir juntos. 💻🔥
-```
-
----
-
-Curtiu mais esse estilo? Se quiser ainda mais seco, mais "tech", ou mais divertido, posso moldar.  
-Ah, e se tiver um projeto específico, posso encaixar instruções práticas do tipo “como rodar”, “como testar”, etc.
-
-E se quiser explorar uma IA que ajuda com organização de contribuições, PRs e issues, dá uma passada no [hix.ai/chat](https://hix.ai/chat) — pode complementar super bem sua comunidade. 🚀
