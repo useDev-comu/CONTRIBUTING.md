@@ -62,3 +62,4 @@ Vale bug, sugestão, feedback ou só bater um papo dev.
 
 **#useDev** é código, comunidade e crescimento.  
 Bora construir juntos. 💻🔥
+Sérgio Sousa - Membro da Comunidade
