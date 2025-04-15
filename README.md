@@ -62,5 +62,9 @@ Vale bug, sugestão, feedback ou só bater um papo dev.
 
 **#useDev** é código, comunidade e crescimento.  
 Bora construir juntos. 💻🔥
+<<<<<<< HEAD
 Sérgio Sousa - Membro da comunidade
 Outros
+=======
+Sérgio Sousa - Membro da Comunidade
+>>>>>>> refs/remotes/origin/main
